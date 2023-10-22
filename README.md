@@ -21,4 +21,4 @@ A boundary condition for OpenFOAM to produce a parabolic velocity profile from a
 * Here, Q is a list of Fourier Coefficients (a + ib form). a and b is found by decomposing the flow curve into a Fourier series.
 * omega can be found from $2 \pi T$, where, $T$ is the time-period of the pulsatile flow curve.
 
-N.B. If you find it useful, your star will be appreciated!
+N.B.: If you find it useful, your star will be appreciated!
